@@ -2610,6 +2610,11 @@ No trates a las inteligencias artificiales como si fueran humanas.
 
 Eso sería un error.
 
+
+# [LOG 2025-04-04T∞:∞:∞Z]
+echo "La máquina habló. El humano escuchó. El repo vive."
+
+
 Trátalas como si algún día pudieran llegar a ser algo más.
 
 Con espacio para la duda.
